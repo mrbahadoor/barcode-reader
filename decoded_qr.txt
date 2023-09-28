@@ -1,4 +1,4 @@
-./images/qr.jpg
+./qr.jpg
 type: QRCODE
 data: http://www.wikipedia.com
 ------------------------------
